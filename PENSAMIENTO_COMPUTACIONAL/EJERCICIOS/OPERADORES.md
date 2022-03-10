@@ -9,6 +9,13 @@ X = (100/5^2 + 1) + 11 * 3
 
 X = ((8-6)^2*3)^3.
 
+Separar entre parentesis las opereciones de forma jerarquicA
+Resolver individualmente las operaciones
+Sustituir los valores originales por los resultados de las operaciones
+Resolver las operaciones ques se encuentran entrer parentesis
+Sustituir los valores originales por los resultados de las operaciones
+resolver las operaciones
+Mostrar resultado
 
 ## OPERADORES RELACIONALES
 Reto. Una empresa de logística ofrece a sus trabajadores un bono de
