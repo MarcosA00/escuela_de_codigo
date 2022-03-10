@@ -49,5 +49,5 @@ Reto. Evalúa las siguientes expresiones a la derecha.
 1) (45<120 OR 12<120) = Vedadero
 2) (6! =6) && (12>22)) = Falso
 3) ¬ (128<145 && 12>9) = Verdadero
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+4) “Daniela”< >”DANIELA” = Verdadero
+5) 10*20< >210 = Falso
