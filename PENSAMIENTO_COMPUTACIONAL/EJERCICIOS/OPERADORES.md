@@ -31,15 +31,23 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
+Bononde puntulidad <= 1 Retraso
+
+Suspencion de un dia = 2 Retrasos
+
+Baja definitiva >= 3 retardos
+
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
 
+G Es el menor
+
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha.
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
+1) (45<120 OR 12<120) = Vedadero
+2) (6! =6) && (12>22)) = Falso
+3) ¬ (128<145 && 12>9) = Verdadero
 4) “Daniela”< >”DANIELA” =
 5) 10*20< >210 =
