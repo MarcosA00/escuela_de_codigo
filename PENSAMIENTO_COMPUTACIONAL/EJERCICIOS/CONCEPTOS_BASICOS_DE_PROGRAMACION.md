@@ -18,6 +18,8 @@ Investiga tres lenguajes de programación y enuncia sus características y lo qu
 6. Plataforma segura para desarrollar y ejecutar aplicaciones.
 7. Es multihilo.
 
+![Java](https://user-images.githubusercontent.com/85717673/157911118-126879b8-6e60-43dd-84fb-b654c7eaeaf5.jpg)
+
 ## C#: Lenguaje popular para la creación de programas de Windows y aplicaciones web.
 1. Es un derivado del lenguaje de programación C.
 2. Es similar a C ++.
@@ -26,8 +28,14 @@ Investiga tres lenguajes de programación y enuncia sus características y lo qu
 5. Distingue entre mayúsculas y minúsculas.
 6. Tiene una sintaxis casi idéntica.
 
+![que-es-c](https://user-images.githubusercontent.com/85717673/157911340-501ebc13-7168-4b10-8ff9-57017e2250f1.jpg)
+
 ##  Python: Python es un lenguaje multiplataforma que puede ser utilizado mediante programación orientada a objetos, posee aspectos que lo diferencían de otros lenguajes de programación como Java, C, PHP y javascript:
 1. Sintaxis simple.
 2. Ausencia de paréntesis .
 3. No incorporación de punto y coma al final de cada instrucción.
+
+![images](https://user-images.githubusercontent.com/85717673/157911568-e85da4fc-3ee5-48cf-84a9-3ea8f5bd781c.jpg)
+
+
 
