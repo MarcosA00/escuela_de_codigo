@@ -8,6 +8,7 @@
   5. Mostrar ("Ingresar segunda cifra")
   6. Asignar (Numero2)
   7. SI Numero1 > Numero2 Entonces mostrar (Numero1 es mayor a Numero2) Si NO mostrar(Nmero1 es menor a Numero2)
+  8. Fin
 
 ![image](https://user-images.githubusercontent.com/85717673/158850828-08115b22-914e-4cb8-8e53-6702da481ae1.png)
 ##
@@ -25,6 +26,10 @@
 10. Asignar (Calificacion4)
 11. Resolver operaciones (Promedio = (Calificacion1 + Calificacion2 + Calificacion3 + Calificacion4) / 4)
 12. SI Promedio es >= a 6 mostrar ("Felicidades, has aprobado") SI NO mostrar ("Tu promedio no es aprovatorio")
+13. Fin
+
+![image](https://user-images.githubusercontent.com/85717673/158856878-317243d2-27a0-41e1-94b6-2758e57e4c26.png)
+
 ##
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 #
