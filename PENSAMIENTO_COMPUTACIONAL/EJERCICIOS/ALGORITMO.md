@@ -24,5 +24,5 @@ Tocar guitarra
 1. Inicio
 2. Ingresar Datos (Nombre y fecha de nacimiento del sujeto, fecha actual).
 3. Restar la fecha de nacimiento a la fecha actual
-4. Determinar la edad del sujeto
+4. Imprimir edad
 5. Fin
