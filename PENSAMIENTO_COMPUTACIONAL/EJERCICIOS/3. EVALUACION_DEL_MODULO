@@ -18,6 +18,26 @@ Algoritmo Promedio_estudiante
 	Fin Si
 FinAlgoritmo
 
+
 ###Actividad 
+
  2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
  Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener la edad promedio de un grupo de N alumnos.
+ 
+ Algoritmo Edad_promedio
+	resultado1=0
+	contador=1
+	resultadoFinal=0
+	Escribir "Ingresar edad"
+	Leer edad
+	Mientras contador>=1 Y edad>5 Hacer
+		resultado1=resultado+edad
+		Escribir "Ingresar edad"
+		Leer edad
+		resultado1=resultado1+edad
+		Escribir "El promedio de edades es " resultadoFinal=(resultado1+edad)/contador
+		contador=contador+1
+	Fin Mientras
+FinAlgoritmo
+ 
+ 
