@@ -1,7 +1,23 @@
-Actividad 1. Programa, usando algoritmo de estructura selectiva, lo siguiente:
-Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para mostrar el mensaje APROBADO si la nota final de un estudiante es mayor o igual que 4,0,
-y el mensaje REPROBADO en caso contrario, considere además el siguiente requisito adicional que la nota debe cumplir: debe estar dentro del rango 1,0 a 7,0.
+###Actividad 
 
+ 1. Programa, usando algoritmo de estructura selectiva, lo siguiente:
+ Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para mostrar el mensaje APROBADO si la nota final de un estudiante es mayor o igual que 4,0,
+ y el mensaje REPROBADO en caso contrario, considere además el siguiente requisito adicional que la nota debe cumplir: debe estar dentro del rango 1,0 a 7,0.
 
-Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
-Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener la edad promedio de un grupo de N alumnos.
+Algoritmo Promedio_estudiante
+	Escribir "Ingresa tu promedio"
+	Leer promEv
+	Si promEv>1 Y promEv<7 Entonces
+		Si promEv>4 Entonces
+			Escribir "Felicidades, has aprobado"
+		SiNo
+			Escribir "Tu calificación no es aprobatoria"
+		Fin Si
+	SiNo
+		Escribir "Tu promedio no es valido, vuelve a ingresarlo"
+	Fin Si
+FinAlgoritmo
+
+###Actividad 
+ 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
+ Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener la edad promedio de un grupo de N alumnos.
